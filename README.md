@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Libft Logo](Project_logos/libft.png)](https://github.com/agengemb31/libft)
-[![Libft Logo](Project_logos/libft.png)](https://github.com/agengemb31/libft)
+[![ft_printf Logo](Project_logos/ft_printf.png)](https://github.com/agengemb31/ft_printf)
 
 <!--
 **agengemb31/agengemb31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
