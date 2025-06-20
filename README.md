@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![agengemb's GitHub stats](https://github-readme-stats.vercel.app/api?username=agengemb31)]
+![agengemb's GitHub stats](https://github-readme-stats.vercel.app/api?username=agengemb31)
 
 
 [![libft Logo](Projects-Badges/libfte.png)](https://github.com/agengemb31/libft)
