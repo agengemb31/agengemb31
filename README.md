@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-![agengemb's GitHub stats](https://github-readme-stats.vercel.app/api?username=agengemb31&theme=radical)
-
-
 [![libft Logo](Projects-Badges/libfte.png)](https://github.com/agengemb31/libft)
 [![ft_printf Logo](Projects-Badges/ft_printfe.png)](https://github.com/agengemb31/ft_printf)
 [![get_next_line Logo](Projects-Badges/get_next_linee.png)](https://github.com/agengemb31/get_next_line)
@@ -18,6 +15,10 @@
 [![ft_irc Logo](Projects-Badges/ft_irce.png)](https://github.com/agengemb31/ft_irc)
 [![inception Logo](Projects-Badges/inceptione.png)](https://github.com/agengemb31/Inception)
 [![transcendence Logo](Projects-Badges/ft_transcendencee.png)](https://github.com/agengemb31/Transcendence)
+
+
+![agengemb's GitHub stats](https://github-readme-stats.vercel.app/api?username=agengemb31&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agengemb31&theme=algolia)
 
 
 <!--
