@@ -1,25 +1,25 @@
 ## Hi there 👋
-[![libft Logo](Project_logos/libft.png)](https://github.com/agengemb31/libft)
-[![ft_printf Logo](Project_logos/ft_printf.png)](https://github.com/agengemb31/ft_printf)
-[![get_next_line Logo](get_next_line_logos/get_next_line.png)](https://github.com/agengemb31/get_next_line)
-[![born2beRoot Logo](Project_logos/born2beRoot.png)](https://github.com/agengemb31/born2beRoot)
+[![libft Logo](Projects-Badges/libft.png)](https://github.com/agengemb31/libfte)
+[![ft_printf Logo](Projects-Badges/ft_printf.png)](https://github.com/agengemb31/ft_printf)
+[![get_next_line Logo](Projects-Badges/get_next_line.png)](https://github.com/agengemb31/get_next_line)
+[![born2beRoot Logo](Projects-Badges/born2beRoot.png)](https://github.com/agengemb31/born2beRoot)
 
-[![pipex Logo](Project_logos/born2beRoot.png)](https://github.com/agengemb31/born2beRoot)
-[![push_swap Logo](Project_logos/push_swap.png)](https://github.com/agengemb31/push_swap)
-[![so_long Logo](Project_logos/so_long.png)](https://github.com/agengemb31/so_long)
+[![pipex Logo](Projects-Badges/born2beRoot.png)](https://github.com/agengemb31/born2beRoot)
+[![push_swap Logo](Projects-Badges/push_swap.png)](https://github.com/agengemb31/push_swap)
+[![so_long Logo](Projects-Badges/so_long.png)](https://github.com/agengemb31/so_long)
 
-[![philosophers Logo](Project_logos/philosophers.png)](https://github.com/agengemb31/philosophers)
-[![minishell Logo](Project_logos/minishell.png)](https://github.com/agengemb31/minishell)
-
-
-[![net_practice Logo](Project_logos/net_practice.png)](https://github.com/agengemb31/net_practice)
-[![cube3D Logo](Project_logos/cube3D.png)](https://github.com/agengemb31/cube3D)
-
-[![ft_irc Logo](Project_logos/ft_irc.png)](https://github.com/agengemb31/ft_irc)
+[![philosophers Logo](Projects-Badges/philosophers.png)](https://github.com/agengemb31/philosophers)
+[![minishell Logo](Projects-Badges/minishell.png)](https://github.com/agengemb31/minishell)
 
 
-[![inception Logo](Project_logos/inception.png)](https://github.com/agengemb31/Inception)
-[![transcendence Logo](Project_logos/transcendence.png)](https://github.com/agengemb31/Transcendence)
+[![net_practice Logo](Projects-Badges/net_practice.png)](https://github.com/agengemb31/net_practice)
+[![cube3D Logo](Projects-Badges/cube3D.png)](https://github.com/agengemb31/cube3D)
+
+[![ft_irc Logo](Projects-Badges/ft_irc.png)](https://github.com/agengemb31/ft_irc)
+
+
+[![inception Logo](Projects-Badges/inception.png)](https://github.com/agengemb31/Inception)
+[![transcendence Logo](Projects-Badges/transcendence.png)](https://github.com/agengemb31/Transcendence)
 
 
 <!--
