@@ -16,9 +16,9 @@
 [![inception Logo](Projects-Badges/inceptione.png)](https://github.com/agengemb31/Inception)
 [![transcendence Logo](Projects-Badges/ft_transcendencee.png)](https://github.com/agengemb31/Transcendence)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agengemb31&theme=algolia&langs_count=8)
 
 ![agengemb's GitHub stats](https://github-readme-stats.vercel.app/api?username=agengemb31&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agengemb31&theme=algolia)
 
 
 <!--
