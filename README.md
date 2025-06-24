@@ -2,8 +2,8 @@
 
 My name is Alexis, and I’m a student at [42 Paris](https://42.fr/en/homepage/).
 
-- 🌱 I’m currently learning Unreal Engine and cybersecurity in my free time.
 - 👯 I am looking for an internship as part of my IT architecture expert degree.
+- 🌱 I’m currently learning Unreal Engine and cybersecurity in my free time.
 
 <!--
 **agengemb31/agengemb31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
