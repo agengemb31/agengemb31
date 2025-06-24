@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hellothere 👋
+
+My name is Alexis, and I’m a student at [42 Paris](https://42.fr/en/homepage/).
+
+- 🌱 I’m currently learning Unreal Engine and cybersecurity in my free time.
+- 👯 I am looking for an internship as part of my IT architecture expert degree.
+
+<!--
+**agengemb31/agengemb31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 # Common core projects
 [![libft Logo](Projects-Badges/libfte.png)](https://github.com/agengemb31/libft)
@@ -17,22 +36,5 @@
 [![inception Logo](Projects-Badges/inceptione.png)](https://github.com/agengemb31/Inception)
 [![transcendence Logo](Projects-Badges/ft_transcendencee.png)](https://github.com/agengemb31/Transcendence)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agengemb31&theme=algolia&langs_count=7)
-
-![agengemb's GitHub stats](https://github-readme-stats.vercel.app/api?username=agengemb31&theme=algolia)
-
-
-<!--
-**agengemb31/agengemb31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agengemb31&theme=algolia&langs_count=7) ![agengemb's GitHub stats](https://github-readme-stats.vercel.app/api?username=agengemb31&theme=algolia)
