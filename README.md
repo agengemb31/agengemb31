@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![philosophers Logo](Projects-Badges/philosopherse.png)](https://github.com/agengemb31/philosophers)
 [![minishell Logo](Projects-Badges/minishelle.png)](https://github.com/agengemb31/minishell)
 [![cube3D Logo](Projects-Badges/cub3de.png)](https://github.com/agengemb31/cube3D)
-[![cpp Logo](Projects-Badges/cppe.png)](https://github.com/agengemb31/Inception)
+[![cpp Logo](Projects-Badges/cppe.png)](https://github.com/agengemb31/CPP_Modules)
 [![net_practice Logo](Projects-Badges/netpracticee.png)](https://github.com/agengemb31/net_practice)
 [![ft_irc Logo](Projects-Badges/ft_irce.png)](https://github.com/agengemb31/ft_irc)
 [![inception Logo](Projects-Badges/inceptione.png)](https://github.com/agengemb31/Inception)
