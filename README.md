@@ -1,4 +1,4 @@
-## Hellothere 👋
+## Hello there 👋
 
 My name is Alexis, and I’m a student at [42 Paris](https://42.fr/en/homepage/).
 
